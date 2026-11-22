@@ -1,0 +1,14 @@
+node_modules/
+
+courses.json
+
+.env
+.env.*
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+.vscode/
+.DS_Store
+Thumbs.db
