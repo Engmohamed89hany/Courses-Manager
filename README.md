@@ -38,13 +38,13 @@ node index.js --help
 
 ## Commands
 
-| Command | Alias | Description |
-| --- | --- | --- |
-| `add` | `a` | Add a new course |
-| `list` | `ls` | List all courses |
-| `single` | `s` | Find a course by ID |
-| `update` | `u` | Update a course by ID |
-| `remove` | `rm` | Remove a course by ID |
+| Command  | Alias | Description           |
+| -------- | ----- | --------------------- |
+| `add`    | `a`   | Add a new course      |
+| `list`   | `ls`  | List all courses      |
+| `single` | `s`   | Find a course by ID   |
+| `update` | `u`   | Update a course by ID |
+| `remove` | `rm`  | Remove a course by ID |
 
 ## Examples
 
